@@ -18,10 +18,10 @@ Get started with SnapCenter Service to protect your data in a few steps.
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png[One] Access Cloud Manager
 
 [role="quick-margin-para"]
-You should link:task-signing-up.html[sign up to NetApp Cloud Central], link:task-logging-in.html[log into Cloud Manager], and then set up a link:task-setting-up-cloud-central-accounts.html[NetApp account].
+You should https://docs.netapp.com/us-en/cloud-manager-get-started/task-signing-up.html[sign up to NetApp Cloud Central^], https://docs.netapp.com/us-en/cloud-manager-get-started/task-logging-in.html[log into Cloud Manager^], and then set up a https://docs.netapp.com/us-en/cloud-manager-accounts/task-setting-up-cloud-central-accounts.html[NetApp account^].
 
 [role="quick-margin-para"]
-Only an Account Admin can deploy the SnapCenter Service. However, both Account Admin and SnapCenter Admin can perform different operations. link:reference-user-roles.html[Learn more]
+Only an Account Admin can deploy the SnapCenter Service. However, both Account Admin and SnapCenter Admin can perform different operations. https://docs.netapp.com/us-en/cloud-manager-accounts/reference-user-roles.html[Learn more^]
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png[Two] Ensure that the prerequisites are met
 
@@ -39,7 +39,7 @@ If you have a connector that meets all the prerequisites, you can use that.
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-4.png[Four] Set up and discover Azure NetApp Files
 
 [role="quick-margin-para"]
-Create an Azure NetApp Files working environment in Cloud Manager to create and manage NetApp accounts, capacity pools, volumes, and snapshots. link:task-manage-anf.html[Learn more]
+Create an Azure NetApp Files working environment in Cloud Manager to create and manage NetApp accounts, capacity pools, volumes, and snapshots. https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/task-manage-anf.html[Learn more^]
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-5.png[Five] Enable SnapCenter Service
 

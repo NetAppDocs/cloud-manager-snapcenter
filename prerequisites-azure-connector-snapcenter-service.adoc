@@ -128,7 +128,7 @@ NOTE: If you are using Azure firewall, you can perform these steps using a scrip
 *	to forward the traffic from firewall public IP address to the internet.
 . Attach the route table to the subnet.
 
-For information on the networking requirements for Cloud Manager Connector, see link:reference-networking-cloud-manager.html[Networking requirements for the Connector].
+For information on the networking requirements for Cloud Manager Connector, see https://docs.netapp.com/us-en/cloud-manager-connector/reference-networking-cloud-manager.html[Networking requirements for the Connector^].
 
 === Azure Firewall configuration
 If you want to enable SnapCenter Service behind Azure firewall, you should perform the following actions.
