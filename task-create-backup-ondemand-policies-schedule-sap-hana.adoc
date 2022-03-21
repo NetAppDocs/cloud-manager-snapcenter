@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: create-backup-ondemand-policies-schedule-sap-hana.html
+permalink: task-create-backup-ondemand-policies-schedule-sap-hana.html
 keywords: create, policies, backup policies, snapcenter service, SAP HANA, backup type, backup frequency, retention count, system-defined policies, on-demand backups, schedule backups
 summary: Create on-demand backup or schedule backups of your SAP HANA system using system-defined or custom policies.
 ---

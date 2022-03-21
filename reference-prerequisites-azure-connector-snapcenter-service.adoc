@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: prerequisites-azure-connector-snapcenter-service.html
+permalink: reference-prerequisites-azure-connector-snapcenter-service.html
 keywords: connector, prerequisites, firewall, network requirements, subnet, VNet, network security group, connectivity
 summary: Ensure that you meet the prerequisites before creating the Connector and enabling SnapCenter Service.
 ---

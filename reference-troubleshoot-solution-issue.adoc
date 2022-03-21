@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: troubleshoot-solution-issue.html
+permalink: reference-troubleshoot-solution-issue.html
 keywords: troubleshoot, solution, issues, snapcenter service, SAP HANA, Redis Pods, crashloopbackoff state, backup fails, tenant database
 summary: Troubleshoot SnapCenter Service issues.
 ---

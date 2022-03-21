@@ -13,46 +13,26 @@ summary: Learn what's new in <service>.
 :imagesdir: ./media/
 
 [.lead]
-Learn what's new in <service>.
+Learn what's new in SnapCenter Service.
 
-tag::whats-new[]
-== <date of release in the format dd month year like 28 Nov 2021>
+//tag::whats-new[]
+== 21 Dec 2021
 
-=== <feature title>
+=== Fixes for Apache Log4j vulnerabilities
 
-<description>
+SnapCenter Service 1.0.1 upgrades Apache Log4j from version 2.9.1 to 2.17 to address the following vulnerabilities: CVE-2021-44228, CVE-2021-4104, and CVE-2021-45105.
 
-=== <feature title>
+The SnapCenter Service cluster should auto-update to the latest version. You should ensure that the version in the SnapCenter Service UI shows that the cluster is 1.0.1.1251 or later.
 
-<description>
+//end::whats-new[]
 
-== <date of release in the format dd month year like 28 Nov 2021>
+== 13 Oct 2021
 
-=== <feature title>
+=== Support for SnapCenter Service
 
-<description>
-
-=== <feature title>
-
-<description>
-
-== <date of release in the format dd month year like 28 Nov 2021>
-
-=== <feature title>
-
-<description>
-
-=== <feature title>
-
-<description>
-end::whats-new[]
-
-== <date of release in the format dd month year like 28 Nov 2021>
-
-=== <feature title>
-
-<description>
-
-=== <feature title>
-
-<description>
+* SnapCenter Service provides data protection capabilities for applications running on NetApp® Cloud Storage. SnapCenter Service enabled within NetApp Cloud Manager offers efficient, application consistent, policy-based backup and restore of SAP HANA® Systems residing on Azure NetApp Files (ANF).
++
+link:concept-overview-architecture-limitation-functionalities-snapcenter-service.html[Learn about SnapCenter Service]
+* You should create a Connector, enable SnapCenter Service, add SAP HANA systems, and then perform backup and restore operations.
++
+link:task-get-started-snapcenter-service.html[Get started]
