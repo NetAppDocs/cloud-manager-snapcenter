@@ -61,7 +61,7 @@ homepage:
         - title: Quick Start
           url: /reference-get-started-snapcenter-service.html
     - title: Enable SnapCenter Service
-      entries:
+      links:
         - title: Prerequisites
           url: /reference-prerequisites-azure-connector-snapcenter-service.html
         - title: Create a Connector
@@ -70,8 +70,8 @@ homepage:
           url: /task-enable-snapcenter-service-azure-netapp-files.html
         - title: Install the HDBSQL client
           url: /task-install-hdbsql-client-snapcenter-service.html
-    - title: Use SnapCenter Service to protect SAP HANA systems
-      entries:
+    - title: Protect SAP HANA systems
+      links:
         - title: Add SAP HANA systems
           url: /task-add-sap-hana-systems-non-data-volumes-snapcenter-service.html
         - title: Back up SAP HANA systems
