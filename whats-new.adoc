@@ -5,7 +5,7 @@ keywords: what's new, features, new, release notes, bugs, limitations, known iss
 summary: Learn what's new in <service>.
 ---
 
-= What's new with <service>
+= What's new with SnapCenter Service
 :hardbreaks:
 :nofooter:
 :icons: font
@@ -28,7 +28,7 @@ The SnapCenter Service cluster should auto-update to the latest version. You sho
 
 == 13 Oct 2021
 
-=== Support for SnapCenter Service
+=== Support for SnapCenter Service 1.0.0
 
 * SnapCenter Service provides data protection capabilities for applications running on NetApp® Cloud Storage. SnapCenter Service enabled within NetApp Cloud Manager offers efficient, application consistent, policy-based backup and restore of SAP HANA® Systems residing on Azure NetApp Files (ANF).
 +
