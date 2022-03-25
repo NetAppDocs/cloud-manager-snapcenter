@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: get-started-snapcenter-service.html
+permalink: reference-get-started-snapcenter-service.html
 keywords: snapcenter service, getting started, connector, HDBSQL client, SAP HANA systems, protect SAP HANA systems
 summary: The tasks to deploy SnapCenter Service and protect your data.
 ---

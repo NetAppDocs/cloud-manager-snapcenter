@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: create-azure-connector-user-consent-snapcenter-service.html
+permalink: task-create-azure-connector-user-consent-snapcenter-service.html
 keywords: azure, connector, cloud central, snapcenter service, user consent, tenant admin, create connector, enable, disable, azure marketplace
 summary: Create a Connector in Azure for SnapCenter Service.
 ---

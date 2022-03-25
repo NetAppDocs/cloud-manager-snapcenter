@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: overview-architecture-limitation-functionalities-snapcenter-service.html
+permalink: concept-overview-architecture-limitation-functionalities-snapcenter-service.html
 keywords: snapcenter service, data protection, SAP HANA, Azure NetApp Files, cloud manager, azure kubernetes service, limitation, functionalities
 summary: SnapCenter Service provides data protection capabilities for applications running on NetApp® Cloud Storage.
 ---

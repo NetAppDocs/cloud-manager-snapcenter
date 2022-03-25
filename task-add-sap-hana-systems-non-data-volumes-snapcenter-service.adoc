@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: add-sap-hana-systems-non-data-volumes-snapcenter-service.html
+permalink: task-add-sap-hana-systems-non-data-volumes-snapcenter-service.html
 keywords: add, snapcenter service, SAP HANA, add, auto discovery, HDB user store keys, HDBSQL client, non-data volumes
 summary: Add SAP HANA systems and then add the non-data volumes.
 ---

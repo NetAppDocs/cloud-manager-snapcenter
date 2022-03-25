@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: enable-snapcenter-service-azure-netapp-files.html
+permalink: task-enable-snapcenter-service-azure-netapp-files.html
 keywords: enable snapcenter service, SAP HANA, azure netapp files, azure kubernetes service, AKS, connector, user assigned managed identity, permission, non-high availability, AKS cluster
 summary: Enable the SnapCenter Service using the Cloud Manager UI.
 ---

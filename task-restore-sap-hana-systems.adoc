@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: restore-sap-hana-systems.html
+permalink: task-restore-sap-hana-systems.html
 keywords: restore, snapcenter service, SAP HANA, backups, HANA studio, recovery, point-in-time
 summary: restore the SAP HANA system from one of the backups of that system.
 ---

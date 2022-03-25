@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: manage-dashboard-monitor-notification-snapcenter-service.html
+permalink: reference-manage-dashboard-monitor-notification-snapcenter-service.html
 keywords: view dashboard, monitor operations, email notification, snapcenter service, SAP HANA, jobs
 summary: You can monitor the status of the jobs executed, receive email notifications, and view dashboard.
 ---
