@@ -19,7 +19,7 @@ You can enable the SnapCenter Service using the Cloud Manager UI. When the SnapC
 *What you will need*
 
 * You should register the "Microsoft.ContainerService" resource provider in your Azure subscription. For information, see https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/resource-providers-and-types#register-resource-provider[how to register resource provider^].
-* You should ensure that all the link:prerequisites-azure-connector-snapcenter-service.html[prerequisites] are met.
+* You should ensure that all the link:reference-prerequisites-azure-connector-snapcenter-service.html[prerequisites] are met.
 
 *About this task*
 
@@ -133,7 +133,7 @@ You should replace the <Subscription_ID> in the SnapCenter_Deployment_Role1.json
 +
 You should replace the <Subscription_ID> in the SnapCenter_Deployment_Role2.json file with your Azure subscription ID.
 . Assign the role to the login account at the scope of Connector's VNet or higher.
-. If you have link:prerequisites-azure-connector-snapcenter-service.html#firewall-configuration[configured firewall], create a custom role using the link:media/SnapCenter-Deployment-Role3.json[SnapCenter-Deployment-Role3.json] file.
+. If you have link:reference-prerequisites-azure-connector-snapcenter-service.html#firewall-configuration[configured firewall], create a custom role using the link:media/SnapCenter-Deployment-Role3.json[SnapCenter-Deployment-Role3.json] file.
 +
 You should replace the <Subscription_ID> in the SnapCenter_Deployment_Role3.json file with your Azure subscription ID.
 . Assign the role to the login account at the scope of route table which is attached to the SnapCenter subnet.
