@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: whats-new.html
 keywords: what's new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes
-summary: Learn what's new in <service>.
+summary: Learn what's new in SnapCenter Service.
 ---
 
 = What's new with SnapCenter Service
@@ -35,4 +35,4 @@ The SnapCenter Service cluster should auto-update to the latest version. You sho
 link:concept-overview-architecture-limitation-functionalities-snapcenter-service.html[Learn about SnapCenter Service]
 * You should create a Connector, enable SnapCenter Service, add SAP HANA systems, and then perform backup and restore operations.
 +
-link:task-get-started-snapcenter-service.html[Get started]
+link:reference-get-started-snapcenter-service.html[Get started]
